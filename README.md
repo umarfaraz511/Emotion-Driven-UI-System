@@ -1,4 +1,11 @@
+# project 
+[screen-capture (8).webm](https://github.com/user-attachments/assets/dfac2e12-871e-47dd-b2b8-ee96ecab5ebd)
+
 # Emotion-Driven UI System
+<img width="955" height="443" alt="happy" src="https://github.com/user-attachments/assets/7294f5d7-13cc-4581-ace0-e89b2dd6d1d9" />
+<img width="960" height="442" alt="sad" src="https://github.com/user-attachments/assets/d4cf686b-d04e-4a71-b537-91f3ac40c348" />
+<img width="959" height="443" alt="Angry" src="https://github.com/user-attachments/assets/5d593584-2e9f-4fa2-a63a-ad6532724967" />
+
 
 > Real-time facial emotion detection with adaptive web interface
 
