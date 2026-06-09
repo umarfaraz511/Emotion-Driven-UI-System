@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+__pycache__/
+*.pyc
+venv/
+.env
+chroma_db/
+*.log
+.DS_Store
+frontend/public/models/*.bin
+frontend/public/models/*.json
